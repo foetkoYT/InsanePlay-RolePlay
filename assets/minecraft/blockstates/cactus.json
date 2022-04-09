@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "": [
+	  { "model": "minecraft:block/cactus" },
+	  { "model": "minecraft:block/cactus1" },
+	  { "model": "minecraft:block/cactus2" },
+	  { "model": "minecraft:block/cactus3" },
+	  { "model": "minecraft:block/cactus4" },
+	  { "model": "minecraft:block/cactus5" },
+	  { "model": "minecraft:block/cactus6" },
+	  { "model": "minecraft:block/cactus7" },
+	  { "model": "minecraft:block/cactus8" },
+	  { "model": "minecraft:block/cactus9" }
+    ]
+  }
+}
