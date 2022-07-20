@@ -1,4 +1,5 @@
 # InsanePlay RolePlay
-Zdravím tu najdes officialny insaneplay roleplay pack
 
-Nekopíruj jen stahuj na erpení
+Server in progres....
+
+Práve se pracuje na Mape
